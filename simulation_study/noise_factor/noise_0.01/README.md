@@ -1,1 +1,1 @@
-Demonstrative file to show MATLAB code for noise factor 0.01
+The noise_factor/noise_0.01 directory provides a representative implementation of the simulation procedure for K=2, π=(0.5,0.5), and noise level σ=0.01. The remaining simulation settings reported in the manuscript use the same computational procedure with the corresponding factor levels changed.
